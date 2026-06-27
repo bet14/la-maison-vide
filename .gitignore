@@ -1,0 +1,26 @@
+﻿# Source documents (large files)
+raw/
+
+# Internal pipeline files
+template/
+CLAUDE.md
+*.bat
+
+# Python / venv
+*.py
+*.cfg
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+
+# Web clips / extra data
+Clippings/
+*.html
+*.json
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
