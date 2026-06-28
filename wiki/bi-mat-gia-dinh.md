@@ -2,9 +2,9 @@
 
 **Tóm tắt**: Gia đình trong La maison vide được xây dựng trên nhiều lớp im lặng và bí mật — từ Marguerite bị xóa khỏi ký ức, đến chiến tranh Algeria không được nhắc tên, đến cái chết của cha người kể.
 
-**Nguồn**: raw/chunk_003.txt, raw/chunk_006.txt, raw/chunk_010.txt, raw/chunk_011.txt, raw/chunk_012.txt
+**Nguồn**: raw/chunk_003.txt, raw/chunk_006.txt, raw/chunk_010.txt, raw/chunk_011.txt, raw/chunk_012.txt, raw/chunk_017.txt
 
-**Cập nhật lần cuối**: 2026-06-27
+**Cập nhật lần cuối**: 2026-06-28
 
 ---
 
@@ -43,6 +43,16 @@ Bí mật được truyền qua im lặng, qua không khí, qua những gì khô
 | Cha | (không tên) | Chiến tranh Algeria, tự tử ở 46 tuổi |
 | Người kể | (ẩn danh) | Đang tìm cách lần ra sự thật |
 
+## Lớp bí mật thứ năm: bạo lực của Firmin
+
+Chunk_017 tiết lộ lớp bí mật nằm sâu nhất — xa nhất về thời gian và ít ai biết nhất:
+
+[[firmin-proust|Firmin Proust]] bạo hành [[femme-de-firmin|vợ]] — cả thể xác lẫn tình dục. Đây không phải bí mật bị che giấu chủ động như trường hợp Marguerite; đây là **bạo lực được bình thường hóa** trong thời đại đó, không được gọi tên, không được nhắc đến.
+
+Paradox: Firmin được mô tả là người mang *"propreté morale"* (trong sạch đạo đức) — không hút thuốc, không rượu. Nhưng đây chính là cách bạo lực gia trưởng che giấu bản thân: sau vẻ ngoài nghiêm khắc và đạo đức.
+
+[[femme-de-firmin|Vợ Firmin]] tự bảo vệ mình bằng sự im lặng và kháng cự bên trong — giống như nhiều nhân vật nữ trong cuốn sách, bà xây dựng không gian tồn tại trong bóng tối mà không chống lại trực tiếp.
+
 ## Lớp bí mật thứ tư: nguồn gốc bị quên lãng
 
 Chunks 10–12 tiết lộ một loại "bí mật" khác — không phải che giấu mà là **quên lãng có cấu trúc**:
@@ -58,12 +68,12 @@ Gia sản của gia đình khởi nguồn từ [[francois-ancetre|François]], t
 
 Đây là kiểu bí mật ngược lại: thay vì che giấu sự xấu hổ (như với Marguerite), gia đình che giấu nguồn gốc bình thường của sự vĩ đại — vì thừa nhận nó sẽ phá vỡ huyền thoại tự nhiên về "dòng máu đặc biệt".
 
-## Cập nhật bảng cấu trúc thế hệ
+## Bảng cấu trúc thế hệ (đầy đủ)
 
 | Thế hệ | Nhân vật | Bí mật gắn liền |
 |--------|----------|-----------------|
 | Napoléon | [[francois-ancetre\|François]] | Chiến công bị quên, nguồn gốc gia sản bị thần thoại hóa |
-| Tư sản nông thôn | [[firmin-proust\|Firmin Proust]] | Địa chủ thừa hưởng đất, quên nguồn gốc François |
+| Tư sản nông thôn | [[firmin-proust\|Firmin]] & [[femme-de-firmin\|vợ vô danh]] | Bạo lực gia đình được bình thường hóa; vợ bị ẩn danh hóa |
 | Arrière-grands-parents | [[jules-chichery\|Jules]] & [[marie-ernestine\|Marie-Ernestine]] | Jules chết trận 1916, để lại Marguerite mồ côi cha |
 | Grand-mère | [[marguerite\|Marguerite]] | Bí mật không rõ, bị xóa khỏi ký ức — là "honte" của Marie-Ernestine |
 | Cha | (không tên) | Chiến tranh Algeria, tự tử ở 46 tuổi |
@@ -79,3 +89,4 @@ Gia sản của gia đình khởi nguồn từ [[francois-ancetre|François]], t
 - [[marie-ernestine]]
 - [[francois-ancetre]]
 - [[firmin-proust]]
+- [[femme-de-firmin]]

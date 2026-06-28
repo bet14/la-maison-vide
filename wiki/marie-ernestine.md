@@ -2,9 +2,9 @@
 
 **Tóm tắt**: Arrière-grand-mère của người kể chuyện. Bà hiện diện khắp nơi trong ảnh gia đình — đối nghịch hoàn toàn với con gái Marguerite. Bà là "đường lực" khởi đầu cho toàn bộ câu chuyện gia đình.
 
-**Nguồn**: raw/chunk_005.txt, raw/chunk_007.txt, raw/chunk_008.txt, raw/chunk_009.txt, raw/chunk_010.txt
+**Nguồn**: raw/chunk_005.txt, raw/chunk_007.txt, raw/chunk_008.txt, raw/chunk_009.txt, raw/chunk_010.txt, raw/chunk_014.txt, raw/chunk_015.txt, raw/chunk_016.txt
 
-**Cập nhật lần cuối**: 2026-06-27
+**Cập nhật lần cuối**: 2026-06-28
 
 ---
 
@@ -17,6 +17,28 @@
 - **Góa bụa**: 1916, khi Jules chết trận
 
 Bà **không có quan hệ họ hàng** với Marcel Proust — người kể chuyện nhắc rõ điều này, thêm rằng "sans qu'il soit même permis de rêver à un quelconque lien de parenté" (không thể mơ tới bất kỳ liên hệ thân tộc nào).
+
+## Tuổi thơ — "Boule d'Or"
+
+Marie-Ernestine lớn lên là con út trong một gia đình ba anh chị em ([[paul-proust|Paul]], [[anatole-proust|Anatole]], và bà). Firmin đặt biệt danh *"petite Boule d'Or"* cho bà — quả cầu vàng nhỏ.
+
+Khi còn nhỏ, bà có "les yeux ternes, comme voilés" (mắt đục, như bị che mờ) và da "presque terreux" (gần như màu đất) — người ta sợ bà không sống qua mùa đông đầu tiên. Nhưng bà vượt qua tất cả dự đoán:
+
+> *"la fillette s'était montrée d'une agilité et d'une vivacité redoutables"*
+> (đứa bé gái tỏ ra có sự nhanh nhẹn và sức sống đáng nể)
+
+Tuổi thơ bà là chuỗi ngày giữa hoa bơ và tầm ma, cây mâm xôi và dâu rừng, cùng lũ trẻ con bắt ếch, nhổ nước bọt từ trên ban công xuống bể nước.
+
+Firmin yêu bà với *"une ferveur inédite de candeur"* — loại tình yêu trong sáng chưa từng có ở ông. Lý do một phần vì bà là khoảng trống duy nhất trong hệ thống chiến lược của ông: không kỳ vọng, không nhiệm vụ.
+
+## Giáo dục — "chỉ vừa đủ"
+
+Firmin cho bà đi học — nhưng với giới hạn được tính toán kỹ:
+
+> *"il faudrait lui inculquer juste ce qu'il faut d'éducation pour lui permettre de tenir une conversation et surprendre ses prétendants"*
+> (chỉ cần đủ giáo dục để giữ cuộc trò chuyện và gây ấn tượng với người cầu hôn)
+
+Đây là quan niệm của Firmin về giá trị phụ nữ: trí tuệ chỉ là một "vertu supplémentaire" (đức hạnh bổ sung) — không được nhiều quá, không được ít quá. Trong bối cảnh đó, việc Marie-Ernestine trở thành người phụ nữ sống sót, cứng cỏi, và đầy ắp trong ảnh là một sự vượt thoát khỏi khuôn mẫu cha bà dự định.
 
 ## Hình ảnh trong ảnh gia đình
 
@@ -59,6 +81,9 @@ Marguerite là "sa honte et le signe de l'effondrement de ce en quoi elle avait 
 - [[jules-chichery]]
 - [[marguerite]]
 - [[firmin-proust]]
+- [[femme-de-firmin]]
+- [[paul-proust]]
+- [[anatole-proust]]
 - [[ky-uc-va-do-vat]]
 - [[la-maison]]
 - [[bi-mat-gia-dinh]]

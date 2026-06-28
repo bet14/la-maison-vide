@@ -22,17 +22,27 @@ Wiki phân tích nội dung, nhân vật, chủ đề và cái hay của tiểu 
 | [[marguerite]]          | Grand-mère (1913–1954), nhân vật bí ẩn trung tâm, bị xóa toàn bộ ảnh và đồ vật   |
 | [[andre-chichery]]      | Ông nội (grand-père), "beau-père tyrannique", tái hôn với Marceline sau 1954       |
 | [[cha-nguoi-ke-chuyen]] | Cha người kể, cựu chiến binh Algeria, tự tử ở 46 tuổi                             |
-| [[firmin-proust]]       | Arrière-arrière-grand-père, địa chủ tư sản, cha của Marie-Ernestine               |
+| [[firmin-proust]]       | Arrière-arrière-grand-père, địa chủ tư sản, cha của Marie-Ernestine; bạo hành vợ |
+| [[femme-de-firmin]]     | Vợ vô danh của Firmin — nạn nhân bạo lực, kháng cự thầm lặng từ bóng tối         |
+| [[paul-proust]]         | Anh cả Marie-Ernestine, đi tu theo kế hoạch của Firmin                             |
+| [[anatole-proust]]      | Anh thứ hai Marie-Ernestine, "calamité", lên Paris — đồng tính gợi ý               |
 | [[francois-ancetre]]    | Tổ tiên thời Napoléon, chết năm 22 tuổi, nguồn gốc gia sản — bị thần thoại hóa rồi quên lãng |
 
 ---
+
+## Điều hướng & Hệ thống
+
+| Trang | Mô tả |
+|-------|-------|
+| [[map]] | Routing table — tra topic → file cần đọc (đọc cái này TRƯỚC mọi trang khác) |
+| [[log-archive]] | Nhật ký cũ (trước 2026-06-28) |
 
 ## Sơ đồ & Tổng hợp
 
 | Trang | Mô tả |
 |-------|-------|
 | [[phe-he-gia-dinh]] | Phả hệ 6 thế hệ dạng chart HTML — François → Firmin → Jules/ME → Marguerite/André → Cha → Người kể |
-| [[phe-he-gia-dinh.md]] | Phả hệ dạng Markdown — sơ đồ ASCII + bảng hồ sơ từng nhân vật + dòng thời gian |
+| [[phe-he-gia-dinh.md]] | Phả hệ dạng Markdown — sơ đồ ASCII + dòng thời gian (hồ sơ nhân vật → trang riêng) |
 
 ---
 
@@ -70,3 +80,8 @@ Wiki phân tích nội dung, nhân vật, chủ đề và cái hay của tiểu 
 | raw/chunk_010.txt | Prologue — Chunk 10/378 | Đã xử lý |
 | raw/chunk_011.txt | Prologue — Chunk 11/378 | Đã xử lý |
 | raw/chunk_012.txt | Prologue — Chunk 12/378 | Đã xử lý |
+| raw/chunk_013.txt | Prologue kết thúc — Chunk 13/378 | Đã xử lý |
+| raw/chunk_014.txt | Chương I bắt đầu — Chunk 14/378 | Đã xử lý |
+| raw/chunk_015.txt | Chương I — Chunk 15/378 | Đã xử lý |
+| raw/chunk_016.txt | Chương I — Chunk 16/378 | Đã xử lý |
+| raw/chunk_017.txt | Chương I — Chunk 17/378 | Đã xử lý |

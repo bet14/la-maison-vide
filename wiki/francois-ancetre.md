@@ -2,9 +2,9 @@
 
 **Tóm tắt**: Tổ tiên xa xưa nhất được nhắc đến trong cuốn sách — một người lính Napoléon chết ở tuổi 22 trên chiến trường, được Hoàng đế khen ngợi trực tiếp và được truy tặng Légion d'honneur. Chiến công của ông đặt nền móng vật chất cho toàn bộ gia đình trong hơn một thế kỷ.
 
-**Nguồn**: raw/chunk_010.txt, raw/chunk_011.txt, raw/chunk_012.txt
+**Nguồn**: raw/chunk_010.txt, raw/chunk_011.txt, raw/chunk_012.txt, raw/chunk_013.txt, raw/chunk_014.txt
 
-**Cập nhật lần cuối**: 2026-06-27
+**Cập nhật lần cuối**: 2026-06-28
 
 ---
 
@@ -36,6 +36,35 @@ Số phận câu chuyện về François là một vòng lặp đặc trưng:
 
 > "son héroïsme un symptôme de la singularité de cette famille, une conséquence naturelle, innée, de ce qui bouillait dans ce sang familial si particulier"
 > (anh hùng của ông chỉ là triệu chứng của sự đặc biệt của gia đình này, một hệ quả tự nhiên, bẩm sinh, của cái đang sôi sục trong dòng máu gia đình đặc biệt đó)
+
+## Dấu tích vật chất duy nhất — khắc chữ trên linteau
+
+Mặc dù câu chuyện về François đã bị lãng quên hoàn toàn, căn nhà gia đình còn lưu giữ một bằng chứng vật chất:
+
+Trên mái ngõ cửa vào nhà bằng gỗ sồi, khắc trong đá:
+
+> **1854 FBP FMP**
+
+- **1854**: năm xây nhà
+- **FBP**: *Fait Bâti Par* (Được xây dựng bởi)
+- **FMP**: *François-Marie Proust* — cha của [[firmin-proust|Firmin]], tức ông nội của [[marie-ernestine|Marie-Ernestine]]
+
+Chi tiết thú vị: số "4" trong 1854 bị "bizarrement écrit à l'envers et un peu plus bas que les autres chiffres" (kỳ lạ viết ngược và thấp hơn một chút so với các chữ số khác) — một lỗi nhỏ được giữ lại mãi mãi trong đá.
+
+Đây là François-Marie Proust, không phải François người lính Napoléon. Nhưng cả hai gắn kết qua gia sản: đất và tiền từ François người lính → nhà xây bởi François-Marie → [[firmin-proust|Firmin]] thừa hưởng → [[marie-ernestine|Marie-Ernestine]] sinh ra trong nhà này.
+
+Căn nhà không chỉ là không gian sống — nó là **chữ ký của người xây trong đá**. Xem thêm [[la-maison]].
+
+## Quá trình che khuất ký ức
+
+Trong chunk_013–014, người kể thêm một tầng nữa vào quá trình quên lãng:
+
+- Jules Chichery — người anh hùng thật sự của thế kỷ XX — đã **xóa sổ** vinh quang của François bằng sự hy sinh bi thảm hơn, hoành tráng hơn:
+
+> *"Jules, le vrai héros, avait effacé tout ce qui s'était passé avant elle, renvoyant dans les limbes le prestige de François"*
+> (Jules, người anh hùng thật sự, đã xóa bỏ tất cả những gì xảy ra trước cái chết của ông, đẩy vinh quang của François vào cõi vô danh)
+
+Bi kịch của François: bị đẩy vào quên lãng không phải vì tội lỗi mà vì có người khác bi thảm hơn.
 
 ## Mối liên hệ với các lớp ký ức khác
 
